@@ -19,7 +19,7 @@ html,body{
     top: 0;
     left: 0;
     height: 100%;
-    width: 100%;
+    width: fit-content;
     text-align: center;
     color: white;
     font-family: cursive;
@@ -113,4 +113,5 @@ html,body{
     letter-spacing: 1px;
 }
 }
+
 
