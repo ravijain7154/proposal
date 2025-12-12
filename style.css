@@ -81,7 +81,7 @@ html,body{
 
 }
 
-@media(max-width:575px){
+@media (max-width: 600px) {
    body {
     margin: 0px;
     height: 100%;
@@ -113,3 +113,4 @@ html,body{
     letter-spacing: 1px;
 }
 }
+
